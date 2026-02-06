@@ -129,4 +129,4 @@ categories (jackets, accessories) could balance revenue streams.
 **Shruti Bade**  
 Data Analyst  
 📧 Email: shrutibade12@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/shruit-bade)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shruti-bade)   
