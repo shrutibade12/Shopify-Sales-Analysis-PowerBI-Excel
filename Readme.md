@@ -60,7 +60,7 @@ This project aims to:
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+Shopify _Analysis/
 │
 ├── README.md
 ├── .gitignore
